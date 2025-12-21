@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Nabeel Mubashar 👋</h1>
 <p align="center">
-  🧑‍💻 Self-taught Web Developer | React • Django • WordPress<br/>
-  📍 Based in Pakistan | Open to freelance opportunities
+   Self-taught Web Developer | React • Django • WordPress<br/>
+   Based in Pakistan | Open to freelance opportunities
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 💻 I love turning ideas into real-world websites and apps  
 - 🌱 Currently learning **full-stack development with Django & React**  
@@ -41,16 +41,13 @@
 
 ### 📫 Let's Connect
 - Email : mun73350@gmail.com
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- 📷 [Instagram](https://www.instagram.com/yourusername)  
+- 🌐 [Portfolio](https://nabeelmubashar.info/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nabeel-mubashar-2b3197299/)  
+- 📷 [Instagram](https://www.instagram.com/nabeel_mubashar/)  
 - ✉️ DM me for freelance projects or collaborations!
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-<!---
-nabeel-creator/nabeel-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
