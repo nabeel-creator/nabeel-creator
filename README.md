@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Muhammad%20Nabeel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Django%20%E2%80%A2%20Node.js&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Muhammad%20Nabeel&fontSize=60&fontFamily=Raleway&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Django%20%E2%80%A2%20Node.js&descAlignY=52&descAlign=62&descSize=18)
 
 <div align="center">
 
@@ -92,14 +92,6 @@ Building production-grade web applications that solve real problems. Currently i
 
 ---
 
-## Current Focus
-
-- Building scalable, enterprise-grade applications
-- Writing clean, maintainable code
-- Implementing HIPAA & compliance standards
-- Mentoring junior developers
-- AI-assisted development workflows
-
 ---
 
 ## Experience
@@ -110,14 +102,6 @@ April – May 2026 | Lahore, Pakistan
 Built 2 full-stack projects from architecture to production deployment, focusing on user experience and system reliability.
 
 ---
-
-## Education
-
-**The Superior University**  
-Bachelor's Degree, Computer Software Engineering | 2024 – 2028
-
-**Punjab Group of Colleges**  
-Pre-Engineering | 2022 – 2024
 
 ---
 
@@ -138,6 +122,6 @@ Open to freelance projects, full-time roles, and collaboration opportunities.
 
 <div align="center">
 
-Last Updated: June 2026
+> "Clean code is readable, maintainable, and built to last. Write code that your future self will thank you for."
 
 </div>
