@@ -1,68 +1,70 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea&height=300&section=header&text=Nabeel%20Mubashar&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20•%20Django%20•%20Node.js&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Muhammad%20Nabeel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Django%20%E2%80%A2%20Node.js&descAlignY=51&descAlign=62)
 
 <div align="center">
 
-### Building Production-Grade Web Applications
-
 **Full-Stack Developer** | **SaaS & Enterprise Solutions** | **Lahore, Pakistan**
 
-[Portfolio](https://nabeelmubashar.info) • [LinkedIn](https://www.linkedin.com/in/nabeelmubashar-2b3197299) • [Email](mailto:mun73350@gmail.com)
+[Portfolio](https://nabeelmubashar.info) | [LinkedIn](https://www.linkedin.com/in/nabeelmubashar-2b3197299) | [Email](mailto:mun73350@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a full-stack developer from Pakistan specializing in building **production-grade, user-centric web applications**. Currently interning at **DevelopersHub Corporation**, I've architected and deployed scalable solutions for healthcare, investor networks, and enterprise systems.
+Building production-grade web applications that solve real problems. Currently interning at DevelopersHub Corporation, architecting scalable solutions for healthcare, investor networks, and enterprise systems.
 
-My focus: **Clean architecture** • **Fast APIs** • **Modern UI/UX** • **Real-world impact**
-
-> *"Users don't care about your stack—they care if it breaks."*
+**Focus:** Clean architecture | Fast APIs | Modern UI/UX | Real-world impact
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### **Quad Solutions** | Medical Credentialing Platform
-*Enterprise-grade healthcare system for provider verification*
-- Built a HIPAA-aligned system handling multi-step provider verification
-- Split-screen document review workspace reducing review time by **70%**
-- Immutable audit logs & automated PDF/CSV reports via ReportLab
-- **Stack:** Django REST Framework • React • Zustand • PostgreSQL
+### Orbit Life-OS | Unified SaaS Productivity Platform
+*Feb 2026 – Jun 2026*
+- Architected production SaaS platform eliminating productivity app fragmentation
+- Built scalable backend with 20+ RESTful APIs using Django ORM and JWT authentication
+- Implemented Redis caching for efficient session management
+- Designed responsive frontend with data visualizations and analytics for habit/goal tracking
+- **Stack:** Django | React | PostgreSQL | Redis
 
-### **Business Nexus** | Investor-Entrepreneur Matching
-*Full-stack platform connecting entrepreneurs with investors*
-- End-to-end collaboration lifecycle from discovery to deal communication
-- JWT authentication • Role-based access control • Real-time messaging
-- Document management & serverless Vercel deployment
-- **Stack:** React + TypeScript • Node.js/Express • MongoDB Atlas
+### Hydra Insight | High-Performance Blog Management Platform
+*Sep 2025 – Dec 2025*
+- Developed full-stack CMS with interactive WYSIWYG editor and Admin Panel
+- Optimized performance: Cloudinary integration reduced page load by 60%
+- Achieved Google Lighthouse score of 85+ with asset optimization
+- Built automated email subscription system and SEO-optimized XML sitemaps
+- **Stack:** Django | React | Cloudinary | PostgreSQL
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-### Backend
+**Backend**
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-### Databases & Tools
+**Databases & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-### Cloud & Deployment
+**Cloud & Deployment**
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -71,7 +73,7 @@ My focus: **Clean architecture** • **Fast APIs** • **Modern UI/UX** • **Re
 
 ---
 
-## 📊 GitHub Streaks
+## GitHub Streaks
 
 <div align="center">
 
@@ -81,45 +83,45 @@ My focus: **Clean architecture** • **Fast APIs** • **Modern UI/UX** • **Re
 
 ---
 
-## 🏆 Certifications & Learning
+## Certifications
 
-- **JPMorganChase** – Software Engineering Job Simulation
-- **AWS** – Solutions Architecture Job Simulation  
-- **Google Cloud** – DevOps Foundations: Core Principles & Practices
-- **Networking Basics** – CCNA Foundation
-
----
-
-## 🎯 What I'm Focused On
-
-- ✅ Building **scalable, enterprise-grade** applications
-- ✅ Writing **clean, maintainable** code
-- ✅ Implementing **HIPAA & compliance** standards
-- ✅ Mentoring junior developers
-- ✅ Exploring **AI-assisted development** workflows
+- JPMorganChase – Software Engineering Job Simulation
+- AWS – Solutions Architecture Job Simulation  
+- Google Cloud – DevOps Foundations: Core Principles & Practices
+- CCNA Foundation – Networking Basics
 
 ---
 
-## 💼 Currently Interning At
+## Current Focus
 
-**DevelopersHub Corporation** (April – May 2026)  
-Full-Stack Development | Lahore, Pakistan
+- Building scalable, enterprise-grade applications
+- Writing clean, maintainable code
+- Implementing HIPAA & compliance standards
+- Mentoring junior developers
+- AI-assisted development workflows
+
+---
+
+## Experience
+
+**DevelopersHub Corporation** | Full-Stack Development Intern  
+April – May 2026 | Lahore, Pakistan
 
 Built 2 full-stack projects from architecture to production deployment, focusing on user experience and system reliability.
 
 ---
 
-## 📚 Education
+## Education
 
 **The Superior University**  
-*Bachelor's Degree, Computer Software Engineering* (2024 – 2028)
+Bachelor's Degree, Computer Software Engineering | 2024 – 2028
 
 **Punjab Group of Colleges**  
-*Pre-Engineering* (2022 – 2024)
+Pre-Engineering | 2022 – 2024
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
 <div align="center">
 
@@ -128,7 +130,7 @@ Built 2 full-stack projects from architecture to production deployment, focusing
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://nabeelmubashar.info)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/nabeel-creator)
 
-**Open to:** Freelance Projects • Full-time Roles • Collaboration
+Open to freelance projects, full-time roles, and collaboration opportunities.
 
 </div>
 
@@ -136,8 +138,6 @@ Built 2 full-stack projects from architecture to production deployment, focusing
 
 <div align="center">
 
-### "Code is poetry. Make it beautiful, make it count."
-
-*Last Updated: June 2026*
+Last Updated: June 2026
 
 </div>
