@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Muhammad%20Nabeel&fontSize=60&fontFamily=Raleway&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Django%20%E2%80%A2%20Node.js&descAlignY=52&descAlign=62&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=1a1a1a&height=280&section=header&text=Muhammad%20Nabeel&fontSize=65&fontFamily=Raleway&fontColor=ff0000&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Django%20%E2%80%A2%20Node.js&descAlignY=52&descAlign=62&descColor=ff0000&descSize=17)
 
 <div align="center">
 
