@@ -1,53 +1,143 @@
-<h1 align="center">Hi, I'm Nabeel Mubashar 👋</h1>
-<p align="center">
-   Self-taught Web Developer | React • Django • WordPress<br/>
-   Based in Pakistan | Open to freelance opportunities
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea&height=300&section=header&text=Nabeel%20Mubashar&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20•%20Django%20•%20Node.js&descAlignY=55&descAlign=62)
+
+<div align="center">
+
+### Building Production-Grade Web Applications
+
+**Full-Stack Developer** | **SaaS & Enterprise Solutions** | **Lahore, Pakistan**
+
+[Portfolio](https://nabeelmubashar.info) • [LinkedIn](https://www.linkedin.com/in/nabeelmubashar-2b3197299) • [Email](mailto:mun73350@gmail.com)
+
+</div>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-- 💻 I love turning ideas into real-world websites and apps  
-- 🌱 Currently learning **full-stack development with Django & React**  
-- 🛠️ Building my portfolio and growing as a **freelancer**  
-- 🎯 Focused on writing clean, responsive, and functional code  
-- 🧠 Always learning and improving!
+I'm a full-stack developer from Pakistan specializing in building **production-grade, user-centric web applications**. Currently interning at **DevelopersHub Corporation**, I've architected and deployed scalable solutions for healthcare, investor networks, and enterprise systems.
 
----
+My focus: **Clean architecture** • **Fast APIs** • **Modern UI/UX** • **Real-world impact**
 
-### 🧰 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+> *"Users don't care about your stack—they care if it breaks."*
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeel-creator&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabeel-creator&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+### **Quad Solutions** | Medical Credentialing Platform
+*Enterprise-grade healthcare system for provider verification*
+- Built a HIPAA-aligned system handling multi-step provider verification
+- Split-screen document review workspace reducing review time by **70%**
+- Immutable audit logs & automated PDF/CSV reports via ReportLab
+- **Stack:** Django REST Framework • React • Zustand • PostgreSQL
+
+### **Business Nexus** | Investor-Entrepreneur Matching
+*Full-stack platform connecting entrepreneurs with investors*
+- End-to-end collaboration lifecycle from discovery to deal communication
+- JWT authentication • Role-based access control • Real-time messaging
+- Document management & serverless Vercel deployment
+- **Stack:** React + TypeScript • Node.js/Express • MongoDB Atlas
 
 ---
 
-### 📫 Let's Connect
-- Email : mun73350@gmail.com
-- 🌐 [Portfolio](https://nabeelmubashar.info/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nabeel-mubashar-2b3197299/)  
-- 📷 [Instagram](https://www.instagram.com/nabeel_mubashar/)  
-- ✉️ DM me for freelance projects or collaborations!
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+### Cloud & Deployment
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## 📊 GitHub Streaks
 
+<div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nabeel-creator&theme=radical&hide_border=true&border_radius=10)](https://github.com/nabeel-creator)
+
+</div>
+
+---
+
+## 🏆 Certifications & Learning
+
+- **JPMorganChase** – Software Engineering Job Simulation
+- **AWS** – Solutions Architecture Job Simulation  
+- **Google Cloud** – DevOps Foundations: Core Principles & Practices
+- **Networking Basics** – CCNA Foundation
+
+---
+
+## 🎯 What I'm Focused On
+
+- ✅ Building **scalable, enterprise-grade** applications
+- ✅ Writing **clean, maintainable** code
+- ✅ Implementing **HIPAA & compliance** standards
+- ✅ Mentoring junior developers
+- ✅ Exploring **AI-assisted development** workflows
+
+---
+
+## 💼 Currently Interning At
+
+**DevelopersHub Corporation** (April – May 2026)  
+Full-Stack Development | Lahore, Pakistan
+
+Built 2 full-stack projects from architecture to production deployment, focusing on user experience and system reliability.
+
+---
+
+## 📚 Education
+
+**The Superior University**  
+*Bachelor's Degree, Computer Software Engineering* (2024 – 2028)
+
+**Punjab Group of Colleges**  
+*Pre-Engineering* (2022 – 2024)
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelmubashar-2b3197299)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mun73350@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://nabeelmubashar.info)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/nabeel-creator)
+
+**Open to:** Freelance Projects • Full-time Roles • Collaboration
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code is poetry. Make it beautiful, make it count."
+
+*Last Updated: June 2026*
+
+</div>
