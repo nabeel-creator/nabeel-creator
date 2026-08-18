@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** | **SaaS & Enterprise Solutions** | **Lahore, Pakistan**
 
-[Portfolio](https://nabeelmubashar.info) | [LinkedIn](https://www.linkedin.com/in/nabeelmubashar-2b3197299) | [Email](mailto:mun73350@gmail.com)
+[Portfolio](https://nabeelmubashar.info) | [LinkedIn](https://www.linkedin.com/in/dev-nabeel/) | [Email](mailto:mun73350@gmail.com)
 
 </div>
 
