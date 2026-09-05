@@ -1,14 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0705,100:C4A57B&height=260&section=header&text=Muhammad%20Nabeel&fontSize=56&fontFamily=Raleway&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Django%20%C2%B7%20Node.js&descAlignY=56&descAlign=62&descSize=17&descColor=E8D9BD)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:070503,100:1B130A&height=260&section=header&text=Muhammad%20Nabeel&fontSize=56&fontFamily=Raleway&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Agentic%20AI%20Developer&descAlignY=56&descAlign=62&descSize=17&descColor=C4A57B)
 
-<a href="https://nabeelmubashar.info"><img src="https://img.shields.io/badge/Portfolio-nabeelmubashar.info-C4A57B?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/dev-nabeel"><img src="https://img.shields.io/badge/LinkedIn-dev--nabeel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mun73350@gmail.com"><img src="https://img.shields.io/badge/Email-mun73350%40gmail.com-C4A57B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://nabeelmubashar.info"><img src="https://img.shields.io/badge/Portfolio-nabeelmubashar.info-C4A57B?style=flat&logo=firefox&logoColor=white&labelColor=0B0704" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dev-nabeel"><img src="https://img.shields.io/badge/LinkedIn-dev--nabeel-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0B0704" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:mun73350@gmail.com"><img src="https://img.shields.io/badge/Email-mun73350%40gmail.com-C4A57B?style=flat&logo=gmail&logoColor=white&labelColor=0B0704" /></a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Raleway&size=20&duration=3000&pause=1000&color=C4A57B&center=true&vCenter=true&width=650&lines=Shipping+production+SaaS%2C+not+just+demos;React+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Raleway&size=20&duration=3000&pause=1000&color=C4A57B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%E2%80%A2+Agentic+AI+Developer;React+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nabeel-creator&color=C4A57B&style=flat&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/nabeel-creator?label=Followers&style=flat&color=C4A57B&logo=github&logoColor=white" alt="Followers" />
@@ -34,47 +36,98 @@ I care more about clean architecture and fast APIs than flashy-but-fragile code.
 
 ---
 
-## Featured Projects
+## Featured Project
+
+<div align="center">
 
 ### 🌐 Orbit — Life OS
-*Unified SaaS productivity platform · Feb 2026 – Jun 2026*
+**Unified SaaS Productivity Platform** · *Feb 2026 – Jun 2026*
 
-Built to kill productivity-app fragmentation — habits, goals, and analytics in one place.
-- 20+ RESTful APIs on Django ORM with JWT authentication
-- Redis-backed session caching
-- Responsive React frontend with live data visualizations
+</div>
 
-`Django` `React` `PostgreSQL` `Redis`
+Architected a production SaaS platform built to eliminate productivity-app fragmentation with one unified, comprehensive life-management dashboard — habits, finances, and goals tracked seamlessly across every domain of a user's life.
 
-### 🏥 Quad Solutions — Medical Credentialing Platform
-*DevelopersHub internship*
+**Modern features:**
+- ⚡ 20+ RESTful API endpoints on Django ORM handling complex, cross-domain data queries
+- 🔐 Secure JWT authentication paired with Redis caching for efficient session management at scale
+- 📊 Responsive React frontend with live data visualizations and custom analytics dashboards
+- 🎯 Cross-domain tracking — habits, financial metrics, and goals unified in one interface
 
-Enterprise-grade credentialing system for healthcare orgs, managing the full provider verification lifecycle.
-- HIPAA-aligned workflow with immutable audit logs
-- Automated PDF/CSV reporting via ReportLab
-- Split-screen document review UI — cut review time by 70%
+<div align="center">
 
-`Django REST Framework` `React` `Zustand` `PostgreSQL`
+`Next.js` `Django` `PostgreSQL` `Redis` `JWT`
 
-### 🤝 Business Nexus — Entrepreneur/Investor Platform
-*DevelopersHub internship*
+[View on portfolio →](https://nabeelmubashar.info)
 
-End-to-end platform connecting founders and investors, from discovery to deal communication.
-- JWT auth with role-based access control
-- Real-time messaging and document upload/management
-- Serverless deployment on Vercel
+</div>
+
+## More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ Hydra Insight
+*Blog management platform · Sep 2025 – Dec 2025*
+
+Full-stack CMS with a WYSIWYG editor and admin panel. Cloudinary-powered media delivery cut page load by 60% and pushed the Lighthouse score past 85. Ships with automated email newsletters and SEO-optimized XML sitemaps.
+
+`Next.js` `Django` `MongoDB` `Cloudinary`
+
+[View on portfolio →](https://nabeelmubashar.info)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ DDoS Detector
+*Cybersecurity threat visualization · Jun 2025 – Aug 2025*
+
+Real-time monitoring system processing 10,000+ network requests/min, with an interactive 3D globe (Three.js) mapping attack origins live. Sub-100ms alerts via WebSockets and Django Channels.
+
+`Three.js` `Django Channels` `WebSocket` `Python`
+
+[View on portfolio →](https://nabeelmubashar.info)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Portfolio Site
+*Personal site · May 2025 – Jul 2025*
+
+Responsive portfolio built with React, Three.js, and Tailwind — animated sections, interactive 3D elements, a work-experience timeline, and custom UI components throughout.
+
+`React` `Three.js` `Tailwind CSS`
+
+[Visit →](https://nabeelmubashar.info)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Business Nexus
+*Entrepreneur/investor platform · DevelopersHub internship*
+
+End-to-end platform connecting founders and investors, from discovery to deal communication — JWT auth with role-based access, real-time messaging, and serverless deployment on Vercel.
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB Atlas`
 
-### ✍️ Hydra Insight — Blog Management Platform
-*Sep 2025 – Dec 2025*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Full-stack CMS with a WYSIWYG editor and admin panel.
-- Cloudinary integration cut page load by 60%
-- Google Lighthouse score of 85+
-- Automated email subscriptions and SEO-optimized XML sitemaps
+### 🏥 Quad Solutions
+*Medical credentialing platform · DevelopersHub internship*
 
-`Django` `React` `Cloudinary` `PostgreSQL`
+HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs, automated PDF/CSV reporting, and a split-screen review UI that cut review time by 70%.
+
+`Django REST Framework` `React` `Zustand` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
@@ -110,18 +163,20 @@ Full-stack CMS with a WYSIWYG editor and admin panel.
 ## 3D Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeel-creator/nabeel-creator/main/profile-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeel-creator/nabeel-creator/main/profile-3d-contrib/day.svg" />
-  <img src="https://raw.githubusercontent.com/nabeel-creator/nabeel-creator/main/profile-3d-contrib/night.svg" alt="3D contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@main/profile-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@main/profile-3d-contrib/day.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@main/profile-3d-contrib/night.svg" alt="3D contribution graph" width="100%" />
 </picture>
 
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeel-creator/nabeel-creator/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeel-creator/nabeel-creator/output/github-snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/nabeel-creator/nabeel-creator/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@output/github-snake-light.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 </picture>
+
+> Served through jsDelivr's CDN instead of GitHub's raw server — this is what fixes the lag. jsDelivr caches for up to 24h, so after an Action run, force an immediate refresh at [jsdelivr.com/tools/purge](https://www.jsdelivr.com/tools/purge) if you don't want to wait.
 
 ---
 
@@ -152,3 +207,5 @@ Open to freelance projects, junior roles, and collaboration.
 > "Coursework doesn't teach you this: users don't care about your stack, they care about whether it breaks."
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:070503,100:1B130A&height=120&section=footer)
