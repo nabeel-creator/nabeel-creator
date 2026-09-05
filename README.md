@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:120D08,100:4A3218&height=230&section=header&text=Muhammad%20Nabeel&fontSize=54&fontFamily=Raleway&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Agentic%20AI%20Developer&descAlignY=58&descAlign=62&descSize=17&descColor=C4A57B&stroke=C4A57B&strokeWidth=2)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:120D08,100:4A3218&height=230&section=header&text=Muhammad%20Nabeel&fontSize=54&fontFamily=Raleway&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Agentic%20AI%20Developer&descAlignY=58&descAlign=62&descSize=17&descColor=C4A57B)
 
 <a href="https://nabeelmubashar.info"><img src="https://img.shields.io/badge/Portfolio-nabeelmubashar.info-C4A57B?style=flat&logo=firefox&logoColor=white&labelColor=0B0704" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -25,20 +25,6 @@ I'm a full-stack developer from Lahore, Pakistan, shipping production-grade web 
 
 I care more about clean architecture and fast APIs than flashy-but-fragile code. Recent builds include a HIPAA-aligned credentialing platform that cut document review time by 70%, and a SaaS productivity tool running 20+ REST endpoints. Currently opening up more bandwidth for freelance work and junior full-stack roles.
 
-## Experience
-
-**AntroSys** · Intern, Anthropic Velocity Program
-*July 2026 – Present · Remote, United States*
-Working on lead generation and modern web technologies, contributing to product development and AI research initiatives alongside a global team.
-
-**LoopLab** · Tech Co-Lead
-*July 2026 – Present · Lahore, Pakistan*
-Co-leading technical initiatives for a developer and AI-focused community: running learning programs, tech events, and hands-on projects to upskill emerging talent.
-
-**DevelopersHub Corporation** · Web Development Intern
-*April 2026 – May 2026 · Lahore, Pakistan*
-Delivered two full-stack projects from architecture through deployment: Business Nexus, an entrepreneur/investor platform, and Quad Solutions, a HIPAA-aligned medical credentialing system.
-
 ## Right Now
 
 ```javascript
@@ -55,6 +41,71 @@ const nabeel = {
   reachMe: () => "mun73350@gmail.com",
 };
 ```
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="20%" valign="top">
+
+**Jul 2026 – Present**
+<br><sub>Remote, United States</sub>
+
+</td>
+<td width="80%" valign="top">
+
+### [AntroSys](https://antrosys.com)
+**Intern · Anthropic Velocity Program**
+
+![Anthropic Partner](https://img.shields.io/badge/Anthropic-Claude_Partner-7B5E3C?style=flat-square&labelColor=0B0704)
+
+- Drive web design analysis and modern web tooling for a global product team
+- Contribute to product development and applied AI research initiatives
+- Collaborate cross-functionally with a distributed, US-based team
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="20%" valign="top">
+
+**Jul 2026 – Present**
+<br><sub>Lahore, Pakistan</sub>
+
+</td>
+<td width="80%" valign="top">
+
+### [LoopLab](https://looplab.site)
+**Tech Co-Lead**
+
+- Co-lead technical direction for a developer and AI-focused community
+- Run learning programs, tech events, and hands-on build sessions
+- Mentor and upskill emerging tech talent across Lahore
+
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="20%" valign="top">
+
+**Apr 2026 – May 2026**
+<br><sub>Lahore, Pakistan</sub>
+
+</td>
+<td width="80%" valign="top">
+
+### DevelopersHub Corporation
+**Web Development Intern**
+
+- Shipped two full-stack projects from architecture through deployment
+- Built Business Nexus, a founder and investor collaboration platform, with JWT auth, role-based access, and real-time messaging
+- Built Quad Solutions, a HIPAA-aligned medical credentialing system with immutable audit logs and automated reporting
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -159,8 +210,13 @@ HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages & Frontend**
 <p><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" /></p>
+
+**Animation & 3D**
+<p><img src="https://skillicons.dev/icons?i=threejs" /></p>
 
 **Backend**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,django,py" /></p>
@@ -181,6 +237,8 @@ HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45">
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="45">
 </p>
+
+</div>
 
 ---
 
@@ -252,4 +310,4 @@ Open to freelance projects, junior roles, and collaboration.
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:120D08,100:4A3218&height=110&section=footer&reversal=true&stroke=C4A57B&strokeWidth=2)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:120D08,100:4A3218&height=150&section=footer)
