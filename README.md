@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:070503,100:1B130A&height=260&section=header&text=Muhammad%20Nabeel&fontSize=56&fontFamily=Raleway&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Agentic%20AI%20Developer&descAlignY=56&descAlign=62&descSize=17&descColor=C4A57B)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:120D08,100:4A3218&height=230&section=header&text=Muhammad%20Nabeel&fontSize=54&fontFamily=Raleway&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Agentic%20AI%20Developer&descAlignY=58&descAlign=62&descSize=17&descColor=C4A57B&stroke=C4A57B&strokeWidth=2)
 
 <a href="https://nabeelmubashar.info"><img src="https://img.shields.io/badge/Portfolio-nabeelmubashar.info-C4A57B?style=flat&logo=firefox&logoColor=white&labelColor=0B0704" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -21,18 +21,40 @@
 
 ## About Me
 
-I'm a full-stack developer from Lahore, Pakistan, shipping production-grade web apps with React, Next.js, Django, and WordPress — 10+ of them deployed, not just prototyped. Right now I split my time between an internship at **AntroSys**, co-leading **LoopLab**, and my Software Engineering degree at Superior University.
+I'm a full-stack developer from Lahore, Pakistan, shipping production-grade web apps with React, Next.js, Django, and WordPress, with 10+ of them deployed, not just prototyped. Right now I split my time between an internship at **AntroSys**, co-leading **LoopLab**, and my Software Engineering degree at Superior University.
 
 I care more about clean architecture and fast APIs than flashy-but-fragile code. Recent builds include a HIPAA-aligned credentialing platform that cut document review time by 70%, and a SaaS productivity tool running 20+ REST endpoints. Currently opening up more bandwidth for freelance work and junior full-stack roles.
 
+## Experience
+
+**AntroSys** · Intern, Anthropic Velocity Program
+*July 2026 – Present · Remote, United States*
+Working on lead generation and modern web technologies, contributing to product development and AI research initiatives alongside a global team.
+
+**LoopLab** · Tech Co-Lead
+*July 2026 – Present · Lahore, Pakistan*
+Co-leading technical initiatives for a developer and AI-focused community: running learning programs, tech events, and hands-on projects to upskill emerging talent.
+
+**DevelopersHub Corporation** · Web Development Intern
+*April 2026 – May 2026 · Lahore, Pakistan*
+Delivered two full-stack projects from architecture through deployment: Business Nexus, an entrepreneur/investor platform, and Quad Solutions, a HIPAA-aligned medical credentialing system.
+
 ## Right Now
 
-- 🏢 Interning at **AntroSys** (Anthropic Velocity program) — lead generation, product development, and AI-driven web tooling
-- 🚀 Tech Co-Lead at **LoopLab** — building Lahore's developer & AI community through events, workshops, and hands-on projects
-- 🎓 B.S. Computer Software Engineering, The Superior University (2024 – 2028)
-- 🧠 Also deep in prompt engineering and applied AI workflows
-- 💼 Open to freelance work and junior full-stack roles
-- 📫 Reach me at [mun73350@gmail.com](mailto:mun73350@gmail.com)
+```javascript
+const nabeel = {
+  role: "Full-Stack Developer, Agentic AI Developer",
+  location: "Lahore, Pakistan",
+  currentlyAt: [
+    "Intern @ AntroSys (Anthropic Velocity)",
+    "Tech Co-Lead @ LoopLab",
+  ],
+  studying: "B.S. Software Engineering, Superior University ('24-'28)",
+  exploring: ["Prompt Engineering", "Agentic AI", "MCP Servers"],
+  openTo: ["Freelance projects", "Junior full-stack roles"],
+  reachMe: () => "mun73350@gmail.com",
+};
+```
 
 ---
 
@@ -40,24 +62,28 @@ I care more about clean architecture and fast APIs than flashy-but-fragile code.
 
 <div align="center">
 
-### 🌐 Orbit — Life OS
+### 🌐 Orbit · Life OS
 **Unified SaaS Productivity Platform** · *Feb 2026 – Jun 2026*
+
+[![Live](https://img.shields.io/badge/Live-orbit--os.app-C4A57B?style=for-the-badge&logo=vercel&logoColor=white)](https://orbit-os.app)
+
+In production, with real users, not a demo.
 
 </div>
 
-Architected a production SaaS platform built to eliminate productivity-app fragmentation with one unified, comprehensive life-management dashboard — habits, finances, and goals tracked seamlessly across every domain of a user's life.
+Architected a production SaaS platform built to eliminate productivity-app fragmentation with one unified, comprehensive life-management dashboard: habits, finances, and goals tracked seamlessly across every domain of a user's life.
 
 **Modern features:**
 - ⚡ 20+ RESTful API endpoints on Django ORM handling complex, cross-domain data queries
 - 🔐 Secure JWT authentication paired with Redis caching for efficient session management at scale
 - 📊 Responsive React frontend with live data visualizations and custom analytics dashboards
-- 🎯 Cross-domain tracking — habits, financial metrics, and goals unified in one interface
+- 🤖 Built-in AI agent for automated, in-app assistance
+- 🔌 MCP server exposing Orbit's data and actions to external AI tools
+- 🎯 Cross-domain tracking: habits, financial metrics, and goals unified in one interface
 
 <div align="center">
 
-`Next.js` `Django` `PostgreSQL` `Redis` `JWT`
-
-[View on portfolio →](https://nabeelmubashar.info)
+`Next.js` `Django` `PostgreSQL` `Redis` `JWT` `MCP`
 
 </div>
 
@@ -96,7 +122,7 @@ Real-time monitoring system processing 10,000+ network requests/min, with an int
 ### 💼 Portfolio Site
 *Personal site · May 2025 – Jul 2025*
 
-Responsive portfolio built with React, Three.js, and Tailwind — animated sections, interactive 3D elements, a work-experience timeline, and custom UI components throughout.
+Responsive portfolio built with React, Three.js, and Tailwind, featuring animated sections, interactive 3D elements, a work-experience timeline, and custom UI components throughout.
 
 `React` `Three.js` `Tailwind CSS`
 
@@ -108,7 +134,7 @@ Responsive portfolio built with React, Three.js, and Tailwind — animated secti
 ### 🤝 Business Nexus
 *Entrepreneur/investor platform · DevelopersHub internship*
 
-End-to-end platform connecting founders and investors, from discovery to deal communication — JWT auth with role-based access, real-time messaging, and serverless deployment on Vercel.
+End-to-end platform connecting founders and investors, from discovery to deal communication. JWT auth with role-based access, real-time messaging, and serverless deployment on Vercel.
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB Atlas`
 
@@ -145,6 +171,17 @@ HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs
 **Cloud & Tools**
 <p><img src="https://skillicons.dev/icons?i=git,github,vercel,aws,azure,wordpress" /></p>
 
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="45">
+</p>
+
 ---
 
 ## GitHub Analytics
@@ -158,7 +195,7 @@ HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs
   <img src="https://streak-stats.demolab.com/?user=nabeel-creator&hide_border=true&background=0D0B08&ring=C4A57B&fire=C4A57B&currStreakLabel=C4A57B&sideLabels=E8D9BD&currStreakNum=E8D9BD&sideNums=E8D9BD&dates=8A7A63" />
 </p>
 
-> The public stats API is shared by everyone with a GitHub README, so it occasionally throttles with "rate limit exceeded." If that happens often, self-host `github-readme-stats` for free on Vercel using your own token — see the setup steps below.
+> The public stats API is shared by everyone with a GitHub README, so it occasionally throttles with "rate limit exceeded." If that happens often, self-host `github-readme-stats` for free on Vercel using your own token, see the setup steps below.
 
 ## 3D Contribution Graph
 
@@ -176,17 +213,17 @@ HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs
   <img src="https://cdn.jsdelivr.net/gh/nabeel-creator/nabeel-creator@output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 </picture>
 
-> Served through jsDelivr's CDN instead of GitHub's raw server — this is what fixes the lag. jsDelivr caches for up to 24h, so after an Action run, force an immediate refresh at [jsdelivr.com/tools/purge](https://www.jsdelivr.com/tools/purge) if you don't want to wait.
+> Served through jsDelivr's CDN instead of GitHub's raw server, which is what fixes the lag. jsDelivr caches for up to 24h, so after an Action run, force an immediate refresh at [jsdelivr.com/tools/purge](https://www.jsdelivr.com/tools/purge) if you don't want to wait.
 
 ---
 
 ## Certifications
 
 - AI Fluency: Framework & Foundations
-- JPMorganChase — Software Engineering Job Simulation
-- AWS — Solutions Architecture Job Simulation
-- Google Cloud — DevOps Foundations: Core Principles & Practices
-- CCNA Foundation — Networking Basics
+- JPMorganChase: Software Engineering Job Simulation
+- AWS: Solutions Architecture Job Simulation
+- Google Cloud: DevOps Foundations, Core Principles & Practices
+- CCNA Foundation: Networking Basics
 
 ---
 
@@ -200,6 +237,13 @@ HIPAA-aligned credentialing system for healthcare orgs with immutable audit logs
 
 Open to freelance projects, junior roles, and collaboration.
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
+
 </div>
 
 <div align="center">
@@ -208,4 +252,4 @@ Open to freelance projects, junior roles, and collaboration.
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:070503,100:1B130A&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:120D08,100:4A3218&height=110&section=footer&reversal=true&stroke=C4A57B&strokeWidth=2)
